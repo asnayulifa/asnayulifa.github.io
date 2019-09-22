@@ -1,0 +1,42 @@
+/*Start Body */
+body {
+    background-color: yellow;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 16px;
+    Line-height: 1.5em;
+    margin: 0;
+    padding: 0;
+}
+/* End Body */
+
+/* Start Debug */
+.bg-blue {
+    background-color:green;
+}
+.bg-red {
+    background-color:lightblue;
+}
+/* Start Debug */
+
+/* start Container */
+.container {
+    margin: 10px auto;
+    overflow: auto;
+    width:90%;
+}
+
+.container-full{
+    margin: 10px auto;
+    overflow: auto;
+    width: 100%;
+}
+/* End Container */
+
+/* Star Logo */
+.logo {
+    text-align: center;
+}
+/* End Logo*/
+h1{
+    text-align: center
+}
